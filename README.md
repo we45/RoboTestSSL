@@ -16,4 +16,4 @@
 `| run testssl against target  | target  | results path `
 
 * target: Domain or IP of the Target.
-* results path: where your results will be stored. An `.html` file , `.xml` file and  `.json` files are generated as outputs
+* results path: where your results will be stored. A `.json` file is generated as output
