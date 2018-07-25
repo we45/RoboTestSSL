@@ -9,7 +9,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='RoboTestSSL',
-    version='1.0',
+    version='1.1',
     packages=[''],
     package_dir={'': 'robotestssl'},
     url='https://www.github.com/we45/RoboTestSSL',

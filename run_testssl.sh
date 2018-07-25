@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-/home/testssl/testssl.sh --jsonfile-pretty /results/testssl_result.json ${TARGET} || true
+/home/testssl/testssl.sh --htmlfile /results/${REPORT_NAME}.html --jsonfile-pretty /results/${REPORT_NAME}.json ${TARGET} || true
